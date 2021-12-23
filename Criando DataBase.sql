@@ -2,6 +2,9 @@
 
 -- DROP DATABASE IF EXISTS myecommerce;
 
+--Inserindo chave primaria;
+-- id int PRIMARY KEY;
+
 CREATE DATABASE myecommerce
     WITH 
     OWNER = postgres
